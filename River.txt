@@ -1,0 +1,13 @@
+River Name Country Depth Length
+0 Dnipro Black sea 19 1121.000000
+1 Dnipro Black sea 19 1121.000000
+2 Southern Bug Black sea 2 806.000000
+3 Seversky Donets Don 10 700.000000
+4 Horyn Pripyat 16 577.000000
+5 Desna Dnipro 17 549.000000
+6 Ingulets Dnipro 1 549.000000
+7 Psel Dnipro 4 520.000000
+8 Sluch Horyn 4 451.000000
+9 Styr Prypyat 8 424.000000
+10 Western Bug Narev 2 394.000000
+11 Teterev Dnipro 7 365.000000
